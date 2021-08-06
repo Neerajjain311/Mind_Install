@@ -38,4 +38,7 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 - Handling App Permissions
 - Cache Management
 
-## Possible Enhancements
+## Future Scope
+
+- CareAR app, once perfected, can be made available on AppStore/PlayStore.
+- CareAR app can be used within care delivery organizations which are a part of UHG to facilitate patients with AR enabled remote assistance 24*7.
