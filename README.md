@@ -11,7 +11,10 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 
 ## Core Idea
 
-- Build an AR enabled app that allows AR Collab - 
+- Build an AR enabled app that allows AR Collab - Annotate and engage with user's environment.
+- Allow the remote user to annotate and refect the same on user's screen.
+- Add navigation feature so that the user can utilize it for Indoor/Outdoor navigation during Covid times.
+
 ## Features
 
 - [x] Wallpaper Categories
