@@ -21,8 +21,8 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 - [x] WiFi enabled interaction 
 - [x] Navigation Path Creation
 - [x] Guided Navigation
-- [ ] Fully Remote Connect Feature 
-- [ ] Different Annotation Objects 
+- [ ] ~~Fully Remote Connect Feature 
+- [ ] ~~Different Annotation Objects 
 
 ## Screenshots
 
