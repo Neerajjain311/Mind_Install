@@ -17,11 +17,12 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 
 ## Features
 
-- [x] Wallpaper Categories
-- [x] Search Wallpapers
-- [x] Download Image (save to gallery)
-- [x] Curated list of wallpapers
-- [ ] Dutta 
+- [x] AR Collab - 3D Annotation
+- [x] WiFi enabled interaction 
+- [x] Navigation Path Creation
+- [x] Guided Navigation
+- [ ] Fully Remote Connect Feature 
+- [ ] Different Annotation Objects 
 
 ## Screenshots
 
