@@ -31,6 +31,11 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 </p>
 
 
+## Future Scope
+
+- CareAR app, once perfected, can be made available on AppStore/PlayStore.
+- CareAR app can be used within care delivery organizations which are a part of UHG to facilitate patients with AR enabled remote assistance 24*7.
+
 ## Learnings
 
 - Building AR App using Unity3D
@@ -39,7 +44,5 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 - Teamwork and Food are basis of one's survival on earth!
 - Unity3D can crash systems, anytime!! ;)
 
-## Future Scope
-
-- CareAR app, once perfected, can be made available on AppStore/PlayStore.
-- CareAR app can be used within care delivery organizations which are a part of UHG to facilitate patients with AR enabled remote assistance 24*7.
+## Contact Us
+We're a bunch of enthusiastic geeks who would love to know, learn and grow!! Feel feel to connect with us and share your insights, suggestions and enhancement ideas!!
