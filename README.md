@@ -27,7 +27,7 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 ## Screenshots
 
 <p align="center">
-<img src="CareARHomePage.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARCollab.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARNavigation.JPG" height="400" width="200" alt="Screenshot" hspace="35"/>
+<img src="CareARHomePage.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARCollab.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARNavigation.JPG" height="400" width="250" alt="Screenshot" hspace="35"/>
 </p>
 
 
