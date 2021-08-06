@@ -17,7 +17,7 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 - [x] Search Wallpapers
 - [x] Download Image (save to gallery)
 - [x] Curated list of wallpapers
-- 
+- [ ] Dutta 
 ## Screenshots
 
 <p align="center">
