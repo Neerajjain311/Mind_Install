@@ -33,10 +33,11 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 
 ## Learnings
 
-- Flutter Widgets
-- Handling API
-- Handling App Permissions
-- Cache Management
+- Building AR App using Unity3D
+- Handling Unity Packages
+- Defining custom materials within Unity
+- Teamwork and Food are basis of one's survival on earth!
+- Unity3D can crash systems, anytime!! ;)
 
 ## Future Scope
 
