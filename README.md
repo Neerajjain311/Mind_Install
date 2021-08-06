@@ -4,6 +4,11 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: an
 
 ## Backdrop
 
+More often then not, people fail to get immediate medical assistance which leads to complications that could have been prevented if they could have been helped by an professional at the very beginning.
+People around the globe suffer through the lack of available specialized surgeons and the disproportionate distribution of them in geographical regions.
+World faces lack of real time knowledge sharing channels mainly in the healthcare domain which prevents the expertise of experienced professionals from being shared amongst upcoming doctors.
+In this world of concrete jungle, most people struggle to find guided path inside a medical facility and thus, lose on precious time while trying to figure their route.
+
 ## Core Idea
 
 ## Features
