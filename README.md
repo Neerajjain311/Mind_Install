@@ -1,6 +1,6 @@
 # CareAR
 
-CareAR is a simple, easy to use, elegant AR app built using **Unity3D** :heart: and **ARCorePackage** :camera: which allows users to connect with an expert in case of any medical emergency and act based on their instructions in order to save the patient's life.
+CareAR is a simple, easy to use, elegant AR app built using **Unity** :heart: and **ARCore** :camera: which allows users to connect with an expert in case of any medical emergency and act based on their instructions in order to save the patient's life.
 
 ## Backdrop
 
@@ -27,7 +27,7 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity3D** :heart: 
 ## Screenshots
 
 <p align="center">
-<img src="CareARHomePage.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> 
+<img src="CareARHomePage.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARCollab.jpeg" height="400" width="200" alt="Screenshot" hspace="35"/> <img src="CareARNavigation.JPG" height="400" width="200" alt="Screenshot" hspace="35"/>
 </p>
 
 
@@ -41,6 +41,7 @@ CareAR is a simple, easy to use, elegant AR app built using **Unity3D** :heart: 
 - Building AR App using Unity3D
 - Handling Unity Packages
 - Defining custom materials within Unity
+- Using SCRCPY for remote Android to PC connection
 - Teamwork and Food are basis of one's survival on earth!
 - Unity3D can crash systems, anytime!! ;)
 
