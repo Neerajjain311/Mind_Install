@@ -1,2 +1,15 @@
-# Mind_Install
-A repository showcasing our development and end project at the UHG Global Hackathon 2021.
+# Svastya - AR App
+
+Svastya is a simple, easy to use, elegant AR app built using **Unity** :heart: and **ARCore** :camera: which allows users to connect with an expert in case of any medical emergency and act based on their instructions in order to save the patient's life.
+
+## Backdrop
+
+## Core Idea
+
+## Features
+
+## Implementation
+
+## Learnings
+
+## Possible Enhancements
